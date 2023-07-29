@@ -26,7 +26,8 @@ export class ModyComponent {
     this.m.d = "Mody Tal;"
 
     let n = this.m;
-     
+    
+    debugger
     alert(this.m.d);
   }
 }
