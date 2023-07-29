@@ -6,6 +6,6 @@ import { Injectable } from '@angular/core';
 export class SerService {
   st:string= "abc";
   constructor() { 
-    alert('hello 7890');
+    alert('hello 12345');
   }
 }
