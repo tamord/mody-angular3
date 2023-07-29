@@ -29,6 +29,6 @@ export class ModyComponent {
     
     debugger
     alert(this.m.d);
-    alert('hello world 12345');
+    alert('hello world 67890');
   }
 }
